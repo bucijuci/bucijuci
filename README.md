@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @bucijuci
-- 👀 I’m interested in frontend and android development.
+- 👋 Hi, I’m Judit.
+- 👀 I’m interested in Machine Learning and Data Science.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on projects that teach me new skills. 
 - 📫 You can reach me by email.
